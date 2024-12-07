@@ -1,6 +1,7 @@
 Heres the output that I got from the code
 
-![extra credit output](https://github.com/user-attachments/assets/98674822-9615-46ca-8f3f-177130b21ea9)
+![output extra credit](https://github.com/user-attachments/assets/d0575b56-7018-4af6-a902-dc9d43863185)
+
 
 output
 
